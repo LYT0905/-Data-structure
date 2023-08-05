@@ -1,0 +1,5 @@
+# ninja log v5
+1	1245	1690877983783034800	CMakeFiles/1_tree.dir/main.cpp.o	e210dde9bf1ffbe8
+1248	1817	1690877984354488600	1_tree.exe	e2a5366fd075aefd
+3	248	1690878421354856600	CMakeFiles/1_tree.dir/main.cpp.o	e210dde9bf1ffbe8
+249	534	1690878421640225700	1_tree.exe	e2a5366fd075aefd

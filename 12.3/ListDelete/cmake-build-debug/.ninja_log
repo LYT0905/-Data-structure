@@ -1,0 +1,25 @@
+# ninja log v5
+1	1449	1689929608831366900	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+1452	2629	1689929610009477500	ListDelete.exe	eebcb87c6d8d65f4
+4	267	1689929700614776400	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+269	539	1689929700886322500	ListDelete.exe	eebcb87c6d8d65f4
+3	224	1689929751649300700	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+226	471	1689929751894453200	ListDelete.exe	eebcb87c6d8d65f4
+3	257	1689930000433405300	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+258	531	1689930000706609500	ListDelete.exe	eebcb87c6d8d65f4
+3	227	1689930140211763300	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+229	479	1689930140462846300	ListDelete.exe	eebcb87c6d8d65f4
+4	236	1689930155891727000	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+237	511	1689930156165284500	ListDelete.exe	eebcb87c6d8d65f4
+3	220	1689930171490238400	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+221	470	1689930171740551100	ListDelete.exe	eebcb87c6d8d65f4
+4	233	1689930187379634700	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+234	491	1689930187636849900	ListDelete.exe	eebcb87c6d8d65f4
+5	290	1689930251227109300	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+291	536	1689930251472780200	ListDelete.exe	eebcb87c6d8d65f4
+3	261	1689930286462175900	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+263	514	1689930286714196400	ListDelete.exe	eebcb87c6d8d65f4
+4	257	1689930299630674300	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+258	531	1689930299905032500	ListDelete.exe	eebcb87c6d8d65f4
+3	259	1689930310555629200	CMakeFiles/ListDelete.dir/main.cpp.o	10ad04c619e4f9bd
+260	577	1689930310872021500	ListDelete.exe	eebcb87c6d8d65f4

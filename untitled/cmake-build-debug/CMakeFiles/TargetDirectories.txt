@@ -1,0 +1,3 @@
+/cygdrive/c/c语言/1/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/cygdrive/c/c语言/1/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/c语言/1/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

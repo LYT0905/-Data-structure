@@ -1,0 +1,3 @@
+/cygdrive/c/c语言/1/15.3/1-SSTable/cmake-build-debug/CMakeFiles/1_SSTable.dir
+/cygdrive/c/c语言/1/15.3/1-SSTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/c语言/1/15.3/1-SSTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
