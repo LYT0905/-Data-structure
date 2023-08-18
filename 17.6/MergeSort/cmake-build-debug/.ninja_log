@@ -1,0 +1,5 @@
+# ninja log v5
+1	1603	1692001392105176200	CMakeFiles/MergeSort.dir/main.cpp.o	4879bd3510630a0a
+1605	2243	1692001392744509800	MergeSort.exe	96cdb1fcbbb6e9c8
+3	661	1692001786550922500	CMakeFiles/MergeSort.dir/main.cpp.o	4879bd3510630a0a
+662	954	1692001786842365200	MergeSort.exe	96cdb1fcbbb6e9c8
